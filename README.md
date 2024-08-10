@@ -1,10 +1,10 @@
 # About-Task-1-Digital-Marketing
-**Name:** DEEPALI
-**Company:** CODTECH IT SOLUTIONS
-**ID:** CTO8DS6585
-**Domain:** Digital Marketing
-**Duration:** August to Sept 2024
-**Mentor** Muzammil Ahmed
+## **Name:** DEEPALI
+## **Company:** CODTECH IT SOLUTIONS
+## **ID:** CTO8DS6585
+## **Domain:** Digital Marketing
+## **Duration:** August to Sept 2024
+## **Mentor** Muzammil Ahmed
 
 
 ## Overview of the project
