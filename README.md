@@ -13,3 +13,6 @@
 
 ### Objective
 Implement Google Analytics on a website to track user behavior and generate detailed report. Set up google analytics and configure tracking code. Create custom reports and dashboards to monitor key metrics. Analyze user behavior and make data-driven recommendations.
+
+## Technologies used 
+- **Google Analytics**
